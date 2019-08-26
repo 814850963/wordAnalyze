@@ -1,0 +1,38 @@
+{
+    "rule":{
+        "namespace":"strategy",
+        "name":"test_exp_1496234234223400",
+        "version":0,
+        "last_modify_time":1434234236819000,
+        "log_rate":1023300,
+        "schema_version":"hello_world!"
+    },
+    "comment":[
+        {
+            "id":1,
+            "value":"服务不错",
+            "time":"2019-5-27"
+        },
+        {
+            "id":2,
+            "value":"卫生条件好",
+            "time":"2019-4-21"
+        },
+        {
+            "id":3,
+            "value":"隔音效果差",
+            "time":"2019-1-27"
+        },
+        {
+            "id":4,
+            "value":"服务员态度好，早餐好吃",
+            "time":"2019-3-7"
+        },
+        {
+            "id":5,
+            "value":"环境好，卫生干净",
+            "time":"2019-3-30"
+        }
+        
+    ]
+}
